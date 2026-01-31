@@ -1,4 +1,4 @@
-```md
+
 # 🏥 Demo Doctor Website
 
 A modern doctor listing and appointment demo website built with **React**, **Redux Toolkit**, and **Tailwind CSS**.  
@@ -31,7 +31,7 @@ The project focuses on clean UI, scalable state management, and professional hea
 
 ## 📂 Project Structure
 
-
+```
 
 src/
 │
@@ -55,7 +55,7 @@ src/
 ├── main.jsx
 └── index.css
 
-
+````
 
 ---
 
@@ -112,6 +112,12 @@ const doctors = useSelector((state) => state.doctor.doctors);
 * Appointment booking flow
 * Backend API integration
 * Authentication
+
+---
+
+## 📄 License
+
+This project is created for **learning and demonstration purposes**.
 
 ---
 
