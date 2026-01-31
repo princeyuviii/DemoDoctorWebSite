@@ -115,16 +115,9 @@ const doctors = useSelector((state) => state.doctor.doctors);
 
 ---
 
-## 📄 License
-
-This project is created for **learning and demonstration purposes**.
-
----
-
 ## 👤 Author
 
 **Yuvraj Singh Rathore**
-GitHub: [https://github.com/princeyuviii](https://github.com/princeyuviii)
-
 ```
+GitHub: [https://github.com/princeyuviii](https://github.com/princeyuviii)
 ```
