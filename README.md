@@ -31,7 +31,7 @@ The project focuses on clean UI, scalable state management, and professional hea
 
 ## 📂 Project Structure
 
-```
+
 
 src/
 │
@@ -55,7 +55,7 @@ src/
 ├── main.jsx
 └── index.css
 
-````
+
 
 ---
 
