@@ -114,10 +114,3 @@ const doctors = useSelector((state) => state.doctor.doctors);
 * Authentication
 
 ---
-
-## 👤 Author
-
-**Yuvraj Singh Rathore**
-```
-GitHub: [https://github.com/princeyuviii](https://github.com/princeyuviii)
-```
