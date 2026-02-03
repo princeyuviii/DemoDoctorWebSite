@@ -1,5 +1,5 @@
 
-# 🏥 Demo Doctor Website
+# 🏥 Demo Hosptial Site
 
 A modern doctor listing and appointment demo website built with **React**, **Redux Toolkit**, and **Tailwind CSS**.  
 The project focuses on clean UI, scalable state management, and professional healthcare-style design.
